@@ -1,0 +1,2 @@
+# Pythscord
+Python in discord
